@@ -92,6 +92,8 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 ## Observations
 
 <img width="525" height="880" alt="image" src="https://github.com/user-attachments/assets/2fd683a2-7d50-421e-8cc3-d33d4f5e27db" />
+<img width="386" height="620" alt="image" src="https://github.com/user-attachments/assets/08be35a7-ec84-49ec-a19e-102ce0f54e32" />
+
 
 
 ### Graphs
